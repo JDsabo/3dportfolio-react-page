@@ -5,4 +5,4 @@ Live App: https://vercel.com/jdsabos-projects
 <br>
 <br>
 
-[Screenshot 2023-12-29 095243](https://github.com/JDsabo/3dportfolio-react-page/assets/82731778/e000c540-30c1-405d-ae31-afba87750d0d)
+![Screenshot 2023-12-29 095243](https://github.com/JDsabo/3dportfolio-react-page/assets/82731778/8e9af9d1-ca40-4a1f-bdb0-d02e4a8631dd)
