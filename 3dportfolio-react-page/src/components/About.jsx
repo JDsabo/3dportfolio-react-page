@@ -47,10 +47,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        A software developer with a passion for creating intuitive and engaging user experiences. I have 3 years of corporate background in the frontend field and have worked on a variety of projects apart, ranging from backend data to UX.
+        I specialize in a diverse range of areas, including frontend coding, UX design, technical data analysis, customer service and marketing automation. My passion lies in creating and supporting scalable, intuitive, and engaging user experiences by leveraging cutting-edge programming technologies, customer centric methodologies, data-driven insights, management platforms and design tools.
         <br></br>
         <br></br>
-        I have knowledge in the following areas:
+        Whether it’s crafting seamless interfaces, optimizing user flows, analyzing key data or developing captivating visual content, I thrive on the intersection of creativity and technical expertise.
 <br></br>
 <br></br>
 Programming Languages:
