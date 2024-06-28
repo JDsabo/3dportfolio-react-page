@@ -83,7 +83,7 @@ const Works = () => {
           The following modules showcase my skills and experience through
           real-world examples of my work. Each module is briefly described with
           links to where you can find where I work and more information in regards to my services. They reflect my
-          abilities and knowledge from graphic design, 3D modeling, UX and front-end coding.
+          skills and knowledge from graphic design, 3D modeling, UX and front-end coding.
         </motion.p>
       </div>
 
