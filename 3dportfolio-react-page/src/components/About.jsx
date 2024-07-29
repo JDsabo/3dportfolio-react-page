@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I specialize in a diverse range of areas, including frontend coding, UX design, technical data analysis, customer service and marketing automation. My passion lies in creating and supporting scalable, intuitive, and engaging user experiences by leveraging cutting-edge programming technologies, customer centric methodologies, data-driven insights, management platforms and design tools.
+        ¡Hello! I specialized in Frontend Programming and UX Design, but my passion lies in creating and supporting interactive, scalable and engaging user experiences by leveraging cutting-edge programming technologies, data-driven insights, management platforms and design specialized tools.
         <br></br>
         <br></br>
         Whether it’s crafting seamless interfaces, optimizing user flows, analyzing key data or developing captivating visual content, I thrive on the intersection of creativity and technical expertise.
@@ -55,17 +55,17 @@ const About = () => {
 <br></br>
 Programming Languages:
 <br></br>
-HTML5 - CSS - JS - Three.JS - Tailwind - JQuery - NodeJS - Redux - Bootstrap - Vite.JS - Java - C# - React - TS - Angular - XML/JSON - PHP - Python - SQL
+HTML5 - CSS - JavaScript - Three.JS - Tailwind - JQuery - Node.JS - Redux - Sass - Bootstrap - Vite.JS - Java - C# - React - TS - Angular - Vue.JS - XML/JSON - Django - PHP - Python - SQL
 <br></br>
 <br></br>
 Apps:
 <br></br>
-Git/Github - Postman - MongoDB - Google Cloud/Analytics - EmailJS - Firebase - Docker - phpMyAdmin - MySQL - PowerBI - Marketo - Eloqua - vsCode - vsSuite
+Git/GitHub - Eloqua - Postman - MongoDB - Google Cloud/Analytics - EmailJS - Firebase - Docker - phpMyAdmin - NetBeans - MySQL - ChatGPT - PowerBI - Email on Acid - JIRA - Marketo - Vercel - vsCode - vsSuite - MS Office 365
 <br></br>
 <br></br>
 Design Tools:
 <br></br>
-Blender - Spline - Framer - Sketchfab - Figma - Anima - Adobe Illustrator - Wordpress - Elementor - Adobe Photoshop
+Figma - Blender - Framer - Sketchfab - Anima - Adobe Illustrator/Photoshop/XD - Wordpress - Elementor - DALL·E - Spline
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
